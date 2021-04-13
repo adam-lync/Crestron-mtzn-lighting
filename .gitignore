@@ -1,0 +1,11 @@
+# Archives
+*.zip
+# Compiled projects
+*.lpz
+*.vtz
+# Autosaves
+*.ASV
+# Hashes of compiled projects
+*.hash
+# Debug files
+*.sig
