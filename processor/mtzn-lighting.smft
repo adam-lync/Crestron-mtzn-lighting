@@ -3,6 +3,6 @@
       <Device Model="DIN-4DIMFLV4" DeviceId="03"/>
    </Network>
    <Network Type="Ethernet" Id="02">
-      <Device Model="TPMC-4SM" DeviceId="03"/>
+      <Device Model="TSW-1050" DeviceId="03"/>
    </Network>
 </Device>
